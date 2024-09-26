@@ -34,7 +34,6 @@ function Counter() {
       <button onClick={handleCounter}>Increment</button>
       <button onClick={handleDecrement}>Decrement</button>
       <button onClick={handleReset}>Reset</button>
-      
     </div>
   )
 }
